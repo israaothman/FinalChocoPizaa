@@ -176,7 +176,7 @@ input:checked + label {
 	text-align:center; 
 	border-bottom: 2px solid #cec5ba; 
 	line-height:0.1em; 
-    margin:37px 0 20px; 
+   margin: 85px 0 20px;
     position :relative;
 } 
 .footer_bottom img { 
@@ -204,6 +204,13 @@ button {
 
     margin-left: 721px;
     margin-top: -33px; 
+}
+
+.buttonDiv{
+    position: absolute;
+    bottom: -932px;
+    left: 326px;
+
 }
 
 .info {
